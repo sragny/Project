@@ -1,0 +1,8 @@
+name: base
+dependencies:
+- python=3.11.5
+- pip
+- pip:
+  - cloudpickle==2.2.1
+  - packaging==23.2
+  - pyyaml==6.0
